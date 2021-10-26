@@ -1,2 +1,2 @@
-# Web_typography
+# core-1-setup-demo
  
