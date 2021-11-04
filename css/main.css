@@ -11,7 +11,7 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-   @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+   @import url('https://fonts.googleapis.com/css2?family=Anton&family=Zen+Kurenaido&display=swap');
 
 html {
   color: rgb(206, 0, 0);
@@ -75,7 +75,7 @@ h6 {
 }
 
 p{
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Zen Kurenaido', sans-serif;
   font-size: 1rem;
   line-height: 1.5;
   margin-bottom:1rem;
